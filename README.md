@@ -36,7 +36,7 @@
   <p align="left">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" height="50px" width="50px" align="center" alt="HTML">
     <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-512.png" height="50px" width="50px" align="center" alt="CSS">
-    <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" height="50px" width="50px" align="center" alt="JS">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-download-in-svg-png-gif-file-formats--html-programming-language-coding-logos-icons-1720087.png" height="50px" width="50px" align="center" alt="JS">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpEy7NDZaJgOuppMzPYrA32_z6IHI777Tn9g&s" height="50px" width="50px" align="center" alt="PHP">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" height="50px" width="50px" align="center" alt="CPP">
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="50px" width="50px" align="center" alt="Java">
