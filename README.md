@@ -38,7 +38,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" height="50px" width="50px" align="center" alt="CPP">
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="50px" width="50px" align="center" alt="Java">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" height="50px" width="50px" align="center" alt="R">
-    <img src="[[https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechicons.dev%2Ficons%2Fpython&psig=AOvVaw2RkVMbORP4mj-MesvdIh89&ust=1742283300150000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCot57NkIwDFQAAAAAdAAAAABAE)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwTsKBgt67g7V83MUa-6I2Ex33DrnrxBDwMw&s)" height="50px" width="50px" align="center" alt="Python">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwTsKBgt67g7V83MUa-6I2Ex33DrnrxBDwMw&s" height="50px" width="50px" align="center" alt="Python">
   </p>
 </body>
 </html>
