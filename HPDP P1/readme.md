@@ -46,7 +46,7 @@ We designed a system that:
 
 ## 📎 Reference
 
-This project was completed under the [HPDP Project Guidelines](https://github.com/drshahizan/HPDP/tree/main/2425/project) by Dr. Shahizan.  
+This project was completed under the [HPDP Project Guidelines](https://github.com/drshahizan/HPDP/tree/main/2425/project) by Dr. Shahizan and Dr.Aryati.  
 You may refer to the detailed guide, checklist, and rubric provided in the course repository.
 
 ---
