@@ -6,8 +6,8 @@ Welcome to our project repository for **HPDP P1** – developed by **Group 4**. 
 
 You can view our final deliverables here:
 
-- 📘 [Final Report (PDF)](p1/Group 4/report/Final_Report.pdf)
-- 🖥️ [Presentation Slides (PPTX)](p1/Group 4/report/Presentation_Slides.pptx)
+- 📘 [Final Report (PDF)](Group 4/report/Final_Report.pdf)
+- 🖥️ [Presentation Slides (PPTX)](Group 4/report/Presentation_Slides.pptx)
 
 ---
 
@@ -37,10 +37,10 @@ We designed a system that:
 
 ## 👥 Team Members – Group 4
 
-- **Wei Han** – Lead Developer, Crawler Implementation
-- **[Member 2 Name]** – MongoDB Integration & Data Wrangling
-- **[Member 3 Name]** – Polars Optimization & Performance Testing
-- **[Member 4 Name]** – Report Compilation & Presentation Design
+- **[SOH HAN WEI](https://github.com/wei2030)** – Project Lead, Data Crawling
+- **[xxx](https://)** – MongoDB Integration, Data Cleaning
+- **[xxx](https://)** – Polars Optimization, Benchmarking
+- **[xxx](https://)** – Documentation, Report Preparation
 
 ---
 
